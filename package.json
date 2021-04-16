@@ -1,0 +1,12 @@
+{
+  "name": "reading-log-file",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Yashwant Singh Chauhan",
+  "license": "ISC",
+  "description": " Assignment Given by Relatas-Sales AI"
+}
