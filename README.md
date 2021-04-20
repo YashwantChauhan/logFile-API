@@ -1,6 +1,11 @@
 # Log File API
 
 
+## Update 
+
+-*Now Using fs.promises*
+-*Any no. of files can be added to logFiles folder alphabetically*
+
 ## Technologies Used 
 - NodeJS 
 
